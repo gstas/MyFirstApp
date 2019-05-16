@@ -10,7 +10,7 @@ namespace MyFirstApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("new app - Hello world!");
+            Console.WriteLine("new app - Hello world2!");
             string readLine = Console.ReadLine();
             Console.WriteLine(readLine);
             Console.ReadLine();
